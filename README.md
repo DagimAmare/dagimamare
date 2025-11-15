@@ -1,13 +1,13 @@
 # 👋 Dagim here | MD • Health Data Scientist
 
-🏥 Medical Doctor bridging clinical care and cutting-edge data science
-- 📊 Transforming healthcare through data-driven insights and AI
+🩺 Medical Doctor bridging clinical care and cutting-edge data science 📊
+Transforming healthcare through data-driven insights and AI
 
 ## 🔬 About Me
-- 🩺 Physician with 5+years real-world clinical experience
-- 💼 Healthcare entrepreneur [hepius.co]
-- 📈 MSc Health Data Science candidate
+- Physician with 5+years real-world clinical experience
+- Healthcare entrepreneur [hepius.co]
 - 🎯 Passionate about AI applications in clinical decision support, predictive analytics, and healthcare operations
+- 📈 MSc Health Data Science candidate
 
 ## 🛠️ Technical Stack
 - **Languages**: Python • R • SQL
@@ -16,5 +16,5 @@
 - **Healthcare**: FHIR • HL7 • SNOMED CT • ICD-10
 - **Tools**: Git • Jupyter • Docker • AWS/Azure
 
-## 📫 Let's Connect
+## Let's Connect
 [https://linkedin.com/in/dagim-amare-md] • [dagimamare@hepius.co]
