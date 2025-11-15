@@ -1,4 +1,4 @@
-# 👋 [Dagim here] | MD • Health Data Scientist
+# 👋 Dagim here | MD • Health Data Scientist
 
 🏥 Medical Doctor bridging clinical care and cutting-edge data science
 📊 Transforming healthcare through data-driven insights and AI
