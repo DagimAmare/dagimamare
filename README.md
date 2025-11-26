@@ -1,13 +1,13 @@
 # 👋 Dagim here | MD • Health Data Scientist
 
-Medical Doctor🩺 bridging clinical care and cutting-edge data science 📊
+Medical Doctor bridging clinical care and cutting-edge data science 
 Transforming healthcare through data-driven insights and AI
 
 ## About Me
 - Physician with 5+years real-world clinical experience
 - Healthcare entrepreneur [hepius.co]
-- 🎯 Passionate about AI applications in clinical decision support, predictive analytics, and healthcare operations
-- 📈 MSc Health Data Science candidate
+- MSc Health Data Science candidate
+- Passionate about AI applications in clinical decision support, predictive analytics, and healthcare operations
 
 ## Technical Stack
 - **Languages**: Python • R • SQL
