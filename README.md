@@ -16,5 +16,9 @@ Transforming healthcare through data-driven insights and AI
 - **Healthcare**: FHIR • HL7 • SNOMED CT • ICD-10
 - **Tools**: Git • Jupyter • Docker • AWS/Azure
 
+## Recent Project
+### Marburg Virus Outbreak History Explorer https://github.com/DagimAmare/marburgHx
+
+
 ## Let's Connect
 [https://linkedin.com/in/dagim-amare-md] • [dagimamare@hepius.co]
