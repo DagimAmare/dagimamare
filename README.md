@@ -18,6 +18,7 @@ Transforming healthcare through data-driven insights and AI
 
 ## Recent Project
 - Marburg Virus Outbreak History Explorer [https://github.com/DagimAmare/marburgHx]
+- <img src="marburgHxExplorer.jpg" alt="Marburg Hx Explorer Screenshot" width="500">
 
 
 ## Let's Connect
