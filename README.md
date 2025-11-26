@@ -17,7 +17,7 @@ Transforming healthcare through data-driven insights and AI
 - **Tools**: Git • Jupyter • Docker • AWS/Azure
 
 ## Recent Project
-### Marburg Virus Outbreak History Explorer https://github.com/DagimAmare/marburgHx
+- Marburg Virus Outbreak History Explorer [https://github.com/DagimAmare/marburgHx]
 
 
 ## Let's Connect
