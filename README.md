@@ -22,7 +22,7 @@ Transforming healthcare through data-driven insights and AI
 
 
 ## Let's Connect
-
+<html>
       <style>
         .libutton {
           display: flex;
@@ -41,3 +41,4 @@ Transforming healthcare through data-driven insights and AI
         }
       </style>
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dagim-amare-md" target="_blank">Follow on LinkedIn</a>
+</html>
