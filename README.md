@@ -11,9 +11,9 @@ Transforming healthcare through data-driven insights and AI
 ## Technical Stack
 - **Languages**: Python • R • SQL
 - **Visualization**: PowerBI • Tableau • Plotly • ggplot2
-- **ML/AI**: Scikit-learn • TensorFlow • PyTorch • XGBoost
 - **Healthcare**: FHIR • HL7 • SNOMED CT • ICD-10
 - **Tools**: Git • Jupyter • Docker • AWS/Azure
+- - **ML/AI**: Scikit-learn • TensorFlow • PyTorch 
 
 ## Recent Project
 - Marburg Virus Outbreak History Explorer [https://github.com/DagimAmare/marburgHx]
