@@ -1,7 +1,6 @@
 # Dagim here | MD • Health Data Scientist • Entrepreneur
 
-Medical Doctor bridging clinical care and cutting-edge data science 
-Transforming healthcare through data-driven insights and AI
+Medical Doctor bridging clinical care and data science 
 
 ## About Me
 - Healthcare entrepreneur [hepius.co]
