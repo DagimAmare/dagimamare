@@ -1,7 +1,5 @@
 # Dagim here | MD • Health Data Scientist • Entrepreneur
 
-Medical Doctor bridging clinical care and data science 
-
 ## About Me
 - Healthcare entrepreneur [hepius.co]
 - MSc Health Data Science candidate
@@ -12,7 +10,7 @@ Medical Doctor bridging clinical care and data science
 - **Visualization**: PowerBI • Tableau • Plotly • ggplot2
 - **Healthcare**: FHIR • HL7 • SNOMED CT • ICD-10
 - **Tools**: Git • Jupyter • Docker • AWS/Azure
-- - **ML/AI**: Scikit-learn • TensorFlow • PyTorch 
+- **ML/AI**: Scikit-learn • TensorFlow • PyTorch 
 
 ## Recent Project
 - Marburg Virus Outbreak History Explorer [https://github.com/DagimAmare/marburgHx]
