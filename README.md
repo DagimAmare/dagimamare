@@ -2,8 +2,7 @@
 
 ## About Me
 - Healthcare entrepreneur [hepius.co]
-- MSc Health Data Science candidate
-- Passionate about AI applications in clinical decision support, predictive analytics, and healthcare operations
+- MSc Health Data Science
 
 ## Technical Stack
 - **Languages**: Python • R • SQL
@@ -12,10 +11,6 @@
 - **Tools**: Git • Jupyter • Docker • AWS/Azure
 - **ML/AI**: Scikit-learn • TensorFlow • PyTorch 
 
-## Recent Project
-- Marburg Virus Outbreak History Explorer [https://github.com/DagimAmare/marburgHx]
-
-
-## Let's Connect
+## Connect
 
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dagim-amare-md" target="_blank">Follow on LinkedIn</a>
