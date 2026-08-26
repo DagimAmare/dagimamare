@@ -1,4 +1,4 @@
-# Dagim here | MD • Health Data Scientist • Entrepreneur
+# Dagim here | MD, Health Data Scientist, Entrepreneur
 
 ## About Me
 - Healthcare entrepreneur [hepius.co]
